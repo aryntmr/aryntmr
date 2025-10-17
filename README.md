@@ -41,7 +41,7 @@ My goal is to build end-to-end solutions that make data useful, scalable, and im
 
 ---
 
-## 🧠 Machine Learning Engineering Projects  
+## 🧠 Machine Learning Projects  
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
