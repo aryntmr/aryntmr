@@ -51,8 +51,6 @@ My goal is to build end-to-end solutions that make data useful, scalable, and im
 ## 📚 Education  
 
 🎓 **New York University (NYU)** – M.S. in Computer Engineering (2024 – 2026)  
-📍 Courses: Machine Learning, NLP, Advanced Computer Vision, MLOps, Efficient AI Hardware Design  
-
 🎓 **Indian Institute of Technology (IIT) Goa** – B.Tech in Computer Science (2020 – 2024)  
 
 ---
