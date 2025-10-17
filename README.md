@@ -31,15 +31,23 @@ My goal is to build end-to-end solutions that make data useful, scalable, and im
 
 ---
 
-## 🌟 Featured Projects  
+## 💻 Software Engineering Projects  
+
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| [💬 Real-Time Collaborative Code Editor](https://github.com/aryntmr/collaborative-code-editor) | Developed a full-stack, real-time **code editor** supporting multi-user live editing via WebSockets. Designed backend with Node.js and Express.js to manage room-based sessions and broadcast synchronization. | React · Node.js · Express.js · Socket.io · CodeMirror |
+| [🔐 Distributed File Storage System](https://github.com/aryntmr/distributed-file-storage-v1) | Designed and implemented a **peer-to-peer encrypted file storage system** with AES encryption and SHA-1 content addressing over TCP. Achieved secure and efficient multi-peer broadcasting and concurrent TCP connection management. | Go · Networking · Cryptography · TCP · Concurrent Systems |
+| [🏠 AI-Powered Real-Estate CRM (Recruit Co. Ltd Internship)]() | Built a **MERN-based CRM** integrating structured + semantic search with MongoDB and vector retrieval. Added backend AI agents using FastAPI + LangGraph for dynamic property matching and automation of broker workflows. | React · Node.js · FastAPI · MongoDB · LangGraph · OpenAI API |
+
+---
+
+## 🧠 Machine Learning Engineering Projects  
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
 | [🧠 Distributed Face Recognition MLOps Pipeline](https://github.com/MoulikShah/MLOps_Project) | Architected and deployed a GPU-accelerated **facial recognition** training pipeline using PyTorch (ArcFace), MLFlow, and Ray. Integrated Dockerized workflows, Kubernetes orchestration, and MinIO object storage for scalable MLOps. | PyTorch · MLFlow · Ray · Docker · Kubernetes · Prometheus |
-| [💬 Real-Time Collaborative Code Editor](https://github.com/aryntmr/collaborative-code-editor) | Developed a full-stack, real-time **code editor** supporting multi-user live editing via WebSockets. Designed backend with Node.js and Express.js to manage room-based sessions and broadcast synchronization. | React · Node.js · Express.js · Socket.io · CodeMirror |
-| [🔐 Distributed File Storage System](https://github.com/aryntmr/distributed-file-storage-v1) | Designed and implemented a **peer-to-peer encrypted file storage system** with AES encryption and SHA-1 content addressing over TCP. Achieved secure and efficient multi-peer broadcasting and concurrent TCP connection management. | Go · Networking · Cryptography · TCP · Concurrent Systems |
-| [🏠 AI-Powered Real-Estate CRM (Recruit Co. Ltd Internship)]() | Built a **MERN-based CRM** integrating structured + semantic search with MongoDB and vector retrieval. Added backend AI agents using FastAPI + LangGraph for dynamic property matching and automation of broker workflows. | React · Node.js · FastAPI · MongoDB · LangGraph · OpenAI API |
 | [🍷 Sensor-Based Wine Classification Pipeline]() | Developed an ML pipeline for **spectral data analysis**, integrating Fourier preprocessing and regression models (PLSR, RFR, SVR) to improve classification accuracy by 15%. | Python · scikit-learn · Pandas · Numpy · Signal Processing |
+| [🔍 Vision-Language Hallucination Analysis (Research Project)]() | Investigating hallucinations in **Vision-Language Models (VLMs)** by correlating encoder behavior with image characteristics (density, occlusion, lighting). Benchmarking on POPE, CHAIR, RAH-Bench, and HallusionBench datasets. | Python · CLIP · LLaVA · OpenAI API · Evaluation Benchmarks |
 
 ---
 
