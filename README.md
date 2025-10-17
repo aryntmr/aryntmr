@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Aryan Tomar  
+# 👋 Hi, I'm Aryan Tomar
 
-💻 I'm a **Full-Stack Developer** passionate about building scalable web apps and intelligent systems.  
-I love combining backend engineering with machine learning to create data-driven products.
-
+I am a Software Developer and Machine Learning Engineer passionate about creating intelligent, full-stack systems.
+From crafting robust APIs and responsive web apps to designing machine learning pipelines, I love engineering products that merge functionality with intelligence.
+My goal is to build end-to-end solutions that make data useful, scalable, and impactful.
 ---
 
 ### 🛠️ Tech Stack  
