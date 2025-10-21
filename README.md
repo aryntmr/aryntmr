@@ -47,6 +47,7 @@ My goal is to build end-to-end solutions that make data useful, scalable, and im
 | [🧠 Distributed Face Recognition MLOps Pipeline](https://github.com/MoulikShah/MLOps_Project) | Architected and deployed a GPU-accelerated **facial recognition** training pipeline using PyTorch (ArcFace), MLFlow, and Ray. Integrated Dockerized workflows, Kubernetes orchestration, and MinIO object storage for scalable MLOps. | PyTorch · MLFlow · Ray · Docker · Kubernetes · Prometheus |
 | [🖼️ Single Image Super-Resolution (SISR) using GANs]() | Implemented **SRGAN, ESRGAN, and SRResNet** architectures to enhance image resolution using deep learning. Achieved improved SSIM (0.79) with perceptual loss and reduced network depth by 50%. | PyTorch · GANs · SRGAN · ESRGAN · SRResNet · Image Processing |
 | [🧩 Bayesian Optimization for Neural Network Architecture]() | Compared **Bayesian Optimization vs. Grid Search** for tuning neural network hyperparameters on the Sign Language Digit dataset. Reduced tuning time from 65 hours to 28 minutes while maintaining accuracy. | Python · scikit-learn · Bayesian Optimization · Hyperparameter Tuning |
+| [🖼️ Image Captioning System]() | Built an **image captioning model** using XceptionNet for feature extraction and LSTM for text generation. Achieved BLEU-4 score of 34.6 on MSCOCO dataset and improved it to 37.3 with Faster RCNN integration. | TensorFlow · Keras · XceptionNet · LSTM · Faster RCNN · MSCOCO |
 
 
 ---
