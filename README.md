@@ -45,7 +45,6 @@ My goal is to build end-to-end solutions that make data useful, scalable, and im
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
 | [🧠 Distributed Face Recognition MLOps Pipeline](https://github.com/MoulikShah/MLOps_Project) | Architected and deployed a GPU-accelerated **facial recognition** training pipeline using PyTorch (ArcFace), MLFlow, and Ray. Integrated Dockerized workflows, Kubernetes orchestration, and MinIO object storage for scalable MLOps. | PyTorch · MLFlow · Ray · Docker · Kubernetes · Prometheus |
-| [🔍 Vision-Language Hallucination Analysis (Research Project)]() | Investigating hallucinations in **Vision-Language Models (VLMs)** by correlating encoder behavior with image characteristics (density, occlusion, lighting). Benchmarking on POPE, CHAIR, RAH-Bench, and HallusionBench datasets. | Python · CLIP · LLaVA · OpenAI API · Evaluation Benchmarks |
 | [🖼️ Single Image Super-Resolution (SISR) using GANs]() | Implemented **SRGAN, ESRGAN, and SRResNet** architectures to enhance image resolution using deep learning. Improved SSIM to 0.79 using perceptual loss and reduced network depth by 50% with double residual connections. | PyTorch · GANs · SRGAN · ESRGAN · SRResNet · Image Processing |
 
 ---
