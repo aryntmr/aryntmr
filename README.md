@@ -45,7 +45,8 @@ My goal is to build end-to-end solutions that make data useful, scalable, and im
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
 | [🧠 Distributed Face Recognition MLOps Pipeline](https://github.com/MoulikShah/MLOps_Project) | Architected and deployed a GPU-accelerated **facial recognition** training pipeline using PyTorch (ArcFace), MLFlow, and Ray. Integrated Dockerized workflows, Kubernetes orchestration, and MinIO object storage for scalable MLOps. | PyTorch · MLFlow · Ray · Docker · Kubernetes · Prometheus |
-| [🖼️ Single Image Super-Resolution (SISR) using GANs]() | Implemented **SRGAN, ESRGAN, and SRResNet** architectures to enhance image resolution using deep learning. Improved SSIM to 0.79 using perceptual loss and reduced network depth by 50% with double residual connections. | PyTorch · GANs · SRGAN · ESRGAN · SRResNet · Image Processing |
+| [🧩 Few-Shot Class-Incremental Learning for Face Recognition](https://github.com/aryntmr/Few-Shot-Class-Incremental-Learning-for-Large-Scale-Face-Recognition) | Designed a **few-shot class-incremental learning framework** for large scale face recognition integrating patch-based knowledge distillation and CosFace margin loss. Trained incrementally (25 steps) over 40000 identities with only 4 samples per identity. | Few-Shot Learning · Continual Learning · Knowledge Distillation · Face Recognition |
+| [🖼️ Single Image Super-Resolution (SISR) using GANs](https://github.com/aryntmr/Single-Image-Super-Resolution-using-GANs) | Implemented **SRGAN, ESRGAN, and SRResNet** architectures to enhance image resolution using deep learning. Improved SSIM to 0.79 using perceptual loss and reduced network depth by 50% with double residual connections. | PyTorch · GANs · SRGAN · ESRGAN · SRResNet · Image Processing |
 
 ---
 
@@ -53,10 +54,10 @@ My goal is to build end-to-end solutions that make data useful, scalable, and im
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| [🎥 Video-based AI Assistant]() | Developed a **Streamlit-based video AI assistant** that extracts frames and transcribes audio using Whisper, generates LLM responses, and provides product recommendations using DuckDuckGo API. | Python · Streamlit · Whisper · GPT API · MoviePy · Pillow · Pygame |
-| [📄 Doc Chat Bot]() | Built a **document-based chatbot** using Streamlit and RAG with PDF parsing, FAISS vector search, and LangChain integration. Enabled conversational Q&A over uploaded PDFs with OpenAI GPT models. | Streamlit · LangChain · FAISS · Sentence Transformers · OpenAI API |
-| [🧩 Bayesian Optimization for Neural Network Architecture]() | Compared **Bayesian Optimization vs. Grid Search** for tuning neural network hyperparameters on the Sign Language Digit dataset. Reduced tuning time from 65 hours to 28 minutes while maintaining accuracy. | Python · scikit-learn · Bayesian Optimization · Hyperparameter Tuning |
-| [🖼️ Image Captioning System]() | Built an **image captioning model** using XceptionNet for feature extraction and LSTM for text generation. Achieved BLEU-4 score of 34.6 on MSCOCO dataset and improved it to 37.3 with Faster RCNN integration. | TensorFlow · Keras · XceptionNet · LSTM · Faster RCNN · MSCOCO |
+| [🎥 Video-based AI Assistant](https://github.com/aryntmr/ai-video-assistant) | Developed a **Streamlit-based video AI assistant** that extracts frames and transcribes audio using Whisper, generates LLM responses, and provides product recommendations using DuckDuckGo API. | Python · Streamlit · Whisper · GPT API · MoviePy · Pillow · Pygame |
+| [📄 Doc Chat Bot](https://github.com/aryntmr/doc-chat) | Built a **document-based chatbot** using Streamlit and RAG with PDF parsing, FAISS vector search, and LangChain integration. Enabled conversational Q&A over uploaded PDFs with OpenAI GPT models. | Streamlit · LangChain · FAISS · Sentence Transformers · OpenAI API |
+| [🧩 Bayesian Optimization for Neural Network Architecture](https://github.com/aryntmr/Bayesian-Optimization) | Compared **Bayesian Optimization vs. Grid Search** for tuning neural network hyperparameters on the Sign Language Digit dataset. Reduced tuning time from 65 hours to 28 minutes while maintaining accuracy. | Python · scikit-learn · Bayesian Optimization · Hyperparameter Tuning |
+| [🖼️ Image Captioning System](https://github.com/aryntmr/Image-Captioning-System) | Built an **image captioning model** using XceptionNet for feature extraction and LSTM for text generation. Achieved BLEU-4 score of 34.6 on MSCOCO dataset and improved it to 37.3 with Faster RCNN integration. | TensorFlow · Keras · XceptionNet · LSTM · Faster RCNN · MSCOCO |
 
 
 ---
