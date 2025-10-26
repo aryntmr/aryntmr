@@ -71,7 +71,7 @@ My goal is to build end-to-end solutions that make data useful, scalable, and im
 
 ## 📫 Connect With Me  
 
-[🌐 Portfolio (Coming Soon)](#)  
+[🌐 Portfolio ](https://v0-portfolio-website-design-q5a0p200y-aryntmr18-8770s-projects.vercel.app)  
 [💼 LinkedIn](https://www.linkedin.com/in/aryan-tomar-29ab811ba/)  
 [🐙 GitHub](https://github.com/aryntmr)  
 [📧 Email](mailto:at6304@nyu.edu)  
