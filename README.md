@@ -31,6 +31,29 @@ My goal is to build end-to-end solutions that make data useful, scalable, and im
 
 ---
 
+---
+
+## 📚 Education  
+
+🎓 **New York University (NYU)** – M.S. in Computer Engineering (2024 – 2026)  
+🎓 **Indian Institute of Technology (IIT) Goa** – B.Tech in Computer Science (2020 – 2024)  
+
+---
+
+## 📫 Connect With Me  
+
+[🌐 Portfolio ](https://v0-portfolio-website-design-q5a0p200y-aryntmr18-8770s-projects.vercel.app)  
+[💼 LinkedIn](https://www.linkedin.com/in/aryan-tomar-29ab811ba/)  
+[🐙 GitHub](https://github.com/aryntmr)  
+[📧 Email](mailto:at6304@nyu.edu)  
+
+---
+
+![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryntmr&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryntmr&layout=compact&theme=tokyonight)
+
+----
+
 ## 💻 Software Engineering Projects  
 
 | Project | Description | Tech Stack |
@@ -58,25 +81,3 @@ My goal is to build end-to-end solutions that make data useful, scalable, and im
 | [📄 Doc Chat Bot](https://github.com/aryntmr/doc-chat) | Built a **document-based chatbot** using Streamlit and RAG with PDF parsing, FAISS vector search, and LangChain integration. Enabled conversational Q&A over uploaded PDFs with OpenAI GPT models. | Streamlit · LangChain · FAISS · Sentence Transformers · OpenAI API |
 | [🧩 Bayesian Optimization for Neural Network Architecture](https://github.com/aryntmr/Bayesian-Optimization) | Compared **Bayesian Optimization vs. Grid Search** for tuning neural network hyperparameters on the Sign Language Digit dataset. Reduced tuning time from 65 hours to 28 minutes while maintaining accuracy. | Python · scikit-learn · Bayesian Optimization · Hyperparameter Tuning |
 | [🖼️ Image Captioning System](https://github.com/aryntmr/Image-Captioning-System) | Built an **image captioning model** using XceptionNet for feature extraction and LSTM for text generation. Achieved BLEU-4 score of 34.6 on MSCOCO dataset and improved it to 37.3 with Faster RCNN integration. | TensorFlow · Keras · XceptionNet · LSTM · Faster RCNN · MSCOCO |
-
-
----
-
-## 📚 Education  
-
-🎓 **New York University (NYU)** – M.S. in Computer Engineering (2024 – 2026)  
-🎓 **Indian Institute of Technology (IIT) Goa** – B.Tech in Computer Science (2020 – 2024)  
-
----
-
-## 📫 Connect With Me  
-
-[🌐 Portfolio ](https://v0-portfolio-website-design-q5a0p200y-aryntmr18-8770s-projects.vercel.app)  
-[💼 LinkedIn](https://www.linkedin.com/in/aryan-tomar-29ab811ba/)  
-[🐙 GitHub](https://github.com/aryntmr)  
-[📧 Email](mailto:at6304@nyu.edu)  
-
----
-
-![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryntmr&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryntmr&layout=compact&theme=tokyonight)
