@@ -50,7 +50,8 @@ My goal is to build end-to-end solutions that make data useful, scalable, and im
 ----
 
 ![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryntmr&show_icons=true&theme=tokyonight)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryntmr&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=aryntmr&layout=compact&theme=tokyonight&cache_seconds=1&v=2)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryntmr&layout=compact&theme=tokyonight&cache_seconds=1&v=3)
+
 ----
 
 ## 💻 Software Engineering Projects  
