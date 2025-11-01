@@ -7,29 +7,24 @@ My goal is to build end-to-end solutions that make data useful, scalable, and im
 ---
 
 ## 🛠️ Tech Stack  
-
 ### 💡 Languages & Frameworks  
-**Languages:** Python, Java, C++, C, JavaScript, TypeScript, Go, Rust, C#  
-**Frameworks & Libraries:** React, Node.js, Express.js, FastAPI, Spring Boot, PyTorch, TensorFlow, Keras, LangChain, LangGraph  
-
+**Languages:** TypeScript, JavaScript, Python, Java, C++, Go  
+**Frameworks & Libraries:** React.js, Next.js, Angular, Node.js, Express.js, FastAPI, Redux, PyTorch, TensorFlow, Keras, LangChain, LangGraph  
 ### 🌐 Full-Stack Development  
-**Frontend:** React.js, Next.js, Tailwind CSS, HTML5, CSS3  
-**Backend:** Node.js, Express.js, FastAPI, Spring Boot  
-**Databases:** MongoDB, PostgreSQL, Redis, SQL  
-**Communication:** REST APIs, WebSockets, gRPC  
-
+**Frontend:** React.js, Next.js, Angular, Tailwind CSS, HTML5, CSS3  
+**Backend:** Node.js, Express.js, FastAPI, GraphQL, Prisma  
+**Databases:** PostgreSQL, MongoDB, MySQL, Redis, DynamoDB, TileDB  
+**Communication:** REST APIs, WebSockets, GraphQL, gRPC  
+**Authentication:** JWT, OAuth  
 ### ⚙️ DevOps & Cloud  
 **Containerization & Orchestration:** Docker, Kubernetes  
 **CI/CD & Infrastructure:** GitHub Actions, Jenkins, Terraform  
-**Cloud Platforms:** AWS (Lambda, EKS, API Gateway, S3), GCP, Azure  
-**Monitoring:** Prometheus, Grafana, ELK Stack  
-
+**Cloud Platforms:** AWS (Lambda, EKS, API Gateway, S3, DynamoDB), Heroku, Vercel  
+**Monitoring:** Prometheus, Grafana, Sentry  
 ### 🤖 Machine Learning & AI  
-**Core Areas:** Computer Vision, Natural Language Processing, Model Optimization, Agentic AI  
+**Core Areas:** Computer Vision, Natural Language Processing, Model Optimization, Agentic AI, RAG Systems  
 **Tools:** PyTorch, TensorFlow, scikit-learn, MLFlow, Ray, OpenAI API, TensorRT  
-**MLOps:** Model Deployment, Cloud Training Pipelines, MinIO Object Storage, Experiment Tracking  
-
----
+**MLOps:** Model Deployment, Distributed Training Pipelines, MinIO Object Storage, Experiment Tracking, Vector Embeddings
 
 ---
 
